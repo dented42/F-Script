@@ -3227,8 +3227,8 @@
 		BA223173189F9AD3002C5B6A /* GameController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameController.framework; path = System/Library/Frameworks/GameController.framework; sourceTree = SDKROOT; };
 		BA223360189FA403002C5B6A /* F-Script.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "F-Script.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA223520189FA412002C5B6A /* F-Script.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "F-Script.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA223668189FA429002C5B6A /* FScriptFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FScriptFramework.framework; path = FScript.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA2237B0189FA432002C5B6A /* FScriptFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FScriptFramework.framework; path = FScript.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA223668189FA429002C5B6A /* FScript.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FScript.framework; path = FScript.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA2237B0189FA432002C5B6A /* FScript.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FScript.framework; path = FScript.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2DBA31C161CA57C0035A675 /* EventKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKit.framework; path = System/Library/Frameworks/EventKit.framework; sourceTree = SDKROOT; };
 		E2DBA31F161CA5D00035A675 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
 		E2DBA321161CA60C0035A675 /* AudioVideoBridging.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioVideoBridging.framework; path = System/Library/Frameworks/AudioVideoBridging.framework; sourceTree = SDKROOT; };
@@ -3715,8 +3715,8 @@
 				8F6392D10BDB8521005C8D94 /* FScriptIBPlugin.ibplugin */,
 				BA223360189FA403002C5B6A /* F-Script.app */,
 				BA223520189FA412002C5B6A /* F-Script.app */,
-				BA223668189FA429002C5B6A /* FScriptFramework.framework */,
-				BA2237B0189FA432002C5B6A /* FScriptFramework.framework */,
+				BA223668189FA429002C5B6A /* FScript.framework */,
+				BA2237B0189FA432002C5B6A /* FScript.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -5605,7 +5605,7 @@
 			name = "FScriptFramework 10.8";
 			productInstallPath = "";
 			productName = FScript;
-			productReference = BA223668189FA429002C5B6A /* FScriptFramework.framework */;
+			productReference = BA223668189FA429002C5B6A /* FScript.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		BA22366A189FA431002C5B6A /* FScriptFramework 10.9 */ = {
@@ -5625,7 +5625,7 @@
 			name = "FScriptFramework 10.9";
 			productInstallPath = "";
 			productName = FScript;
-			productReference = BA2237B0189FA432002C5B6A /* FScriptFramework.framework */;
+			productReference = BA2237B0189FA432002C5B6A /* FScript.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
